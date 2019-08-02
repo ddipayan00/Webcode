@@ -1,3 +1,3 @@
 # Webcode
-website Design
+Website Design
 My first github project
