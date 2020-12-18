@@ -117,21 +117,21 @@ li {
     float: left;
     width: 33.3%;
     color: black;
-    background-color:aqua;  
+    background-color:white;  
     justify-content: center;
     align-items: center;
     width: 400px;
     height: 400px;
 }
 #card1{
-    background-color: blanchedalmond;
+    background-color: white;
     margin: 0 50px 0 0;
 }
 #card2{
-    background-color: blanchedalmond;
+    background-color: white;
 }
 #card3{
-    background-color: blanchedalmond;
+    background-color: white;
     margin: 0 0 0 50px;
 }
 
